@@ -1,0 +1,12 @@
+# Python virtual environments
+Backend/tf_env/
+Frontend/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
